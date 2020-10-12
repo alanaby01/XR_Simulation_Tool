@@ -13,7 +13,7 @@ allowing the designers to see through the end of product development cycle.
 
 ## Meetup Details
 
-27-Sept-2020
+### 27-Sept-2020
 1. Hardware cost estimated around Rs. 5000
 
 2. Hardware implementation
@@ -22,13 +22,13 @@ allowing the designers to see through the end of product development cycle.
 
 2.2 Using software developed using Unity and tools like ARCore, various objects related to the designing tool are placed and anchored in the environment of the user through the glasses. 
 
-11-Oct-2020
+### 11-Oct-2020
 
 1. Hardware cannot be effectively made under this circumstances.
 
 2. A prototype, which includes the basic functionalities of the project, have been initiated
 
-Prototype details
+#### Prototype details
 
 1. An application in AR, that can be build on an Android/iOS which has the following funtionalities.
 
