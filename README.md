@@ -11,7 +11,7 @@ architects, to build what they visualise in their minds into a virtual reality s
 The virtual world thus created, will operate according to the laws of physics,
 allowing the designers to see through the end of product development cycle.
 
-# Meetup Details
+## Meetup Details
 
 27-Sept-2020
 1. Hardware cost estimated around Rs. 5000
