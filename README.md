@@ -20,7 +20,7 @@ allowing the designers to see through the end of product development cycle.
 
 > Using two cameras, attached to the side of XR glasses, the environment around the user is estimated for the computer(Raspberry Pi) module to get an estimate of the environment.
 
-2.2 Using software developed using Unity and tools like ARCore, various objects related to the designing tool are placed and anchored in the environment of the user through the glasses. 
+> Using software developed using Unity and tools like ARCore, various objects related to the designing tool are placed and anchored in the environment of the user through the glasses. 
 
 ### 11-Oct-2020
 
