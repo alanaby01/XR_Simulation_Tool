@@ -17,6 +17,7 @@ Meetup Details
 2. Hardware implementation
 3. Using two cameras, attached to the side of XR glasses, the environment around the user is estimated for the computer(Raspberry Pi) module to get an estimate of the environment.
 4. Using software developed using Unity and tools like ARCore, various objects related to the designing tool are placed and anchored in the environment of the user through the glasses. 
+
 11-Oct-2020
 1. Hardware cannot be effectively made under this circumstances.
 2. A prototype, which includes the basic functionalities of the project, have been initiated
