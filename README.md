@@ -13,6 +13,7 @@ allowing the designers to see through the end of product development cycle.
 
 ## Meetup Details
 
+
 ### 27-Sept-2020
 1. Hardware cost estimated around Rs. 5000
 
